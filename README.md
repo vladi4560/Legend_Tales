@@ -19,29 +19,31 @@ Legend Tales is a multiplatform game available on Android, iOS, and PC, offering
 
 - Settings: Adjust game settings, including sound controls, to tailor your gaming experience according to your preferences. Additionally, find game credits and acknowledge the individuals who contributed to the development of Legend Tales.
 
-
-Certainly! Here's an updated description that includes the game's menu and its various features:
-
 ---
+##ScreenShot
 
-# Legend Tales
+###📜Menu
+![Main Screen](https://github.com/vladi4560/Legend_Tales/assets/64600121/54ec1dc9-a35d-4772-a25a-4c20e745bf5e)
 
-Legend Tales is a multiplatform game available on Android, iOS, and PC, offering a captivating card battle experience. Inspired by Hearthstone, this game incorporates blockchain technology to introduce a unique economy. Earn Legend Coins, a native cryptocurrency, by battling opponents and completing quests. The game features Non-Fungible Token (NFT) cards, ensuring each card is unique.
+###📲Login
+![Login Screen](https://github.com/vladi4560/Legend_Tales/assets/64600121/067277ce-9fdd-4eb8-b05d-3e72c02a5fee)
 
-**Key Features:**
+###👾GamePlay
+![Game Screen](https://github.com/vladi4560/Legend_Tales/assets/64600121/3a49f547-e391-452f-b148-a01908fa6ac4)
 
-- Menu: Navigate the game's user-friendly menu, where you'll find various options to enhance your gaming experience.
+###🎒Inventory
+![Inventory Screen](https://github.com/vladi4560/Legend_Tales/assets/64600121/6d58c5b7-55cb-4529-af4d-7fbb3f48a792)
 
-- Play Mode: Engage in multiplayer battles within the lobby system, where you can join different rooms and challenge opponents in real-time card battles. Collaborate with friends or take on formidable players from around the world.
+###👤Profile
+![Profile Screen](https://github.com/vladi4560/Legend_Tales/assets/64600121/7b21317e-bdd1-4d8a-9ccd-81e2f45cf109)
 
-- Profile Customization: Personalize your gaming experience by creating your own profile. Choose your name, profile picture, and customize your details to make your presence in the game unique.
+###⚙️Settings
+![Settings Screen](https://github.com/vladi4560/Legend_Tales/assets/64600121/dfd8692c-403c-485a-ba3a-7ef854442779)
 
-- Inventory Management: Access your inventory to view and manage the cards you possess. Keep track of your Legend Coins and in-game currency, as well as your valuable crypto coins. You can also withdraw or deposit your crypto coins within the game.
 
-- Market and Trade: Explore the in-game market where you can shop for new cards. Get the chance to obtain cards randomly or visit the trade market to buy cards from other players who are willing to sell them. Expand your collection and strengthen your deck.
 
-- Settings: Adjust game settings, including sound controls, to tailor your gaming experience according to your preferences. Additionally, find game credits and acknowledge the individuals who contributed to the development of Legend Tales.
 
-Immerse yourself in the visually captivating world of Legend Tales, where strategic card battles meet blockchain-powered rewards. Take control of your destiny, forge alliances, and rise to become a legendary card master!
 
----
+
+
+
